@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "منتج 1",
+    "description": "وصف المنتج الأول",
+    "price": 100,
+    "images": [
+      "https://via.placeholder.com/400x300?text=Product+1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "منتج 2",
+    "description": "وصف المنتج الثاني",
+    "price": 150,
+    "images": [
+      "https://via.placeholder.com/400x300?text=Product+2"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "منتج 3",
+    "description": "وصف المنتج الثالث",
+    "price": 200,
+    "images": [
+      "https://via.placeholder.com/400x300?text=Product+3"
+    ]
+  }
+]
